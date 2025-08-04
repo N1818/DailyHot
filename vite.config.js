@@ -53,7 +53,7 @@ export default defineConfig(({ mode }) => {
         manifest: {
           name: "今日热门",
           short_name: "Eremen",
-          description: "汇聚全网热点，热门尽览无余",
+          description: "全网热搜秒聚合，热门动态全掌握",
           display: "standalone",
           start_url: "/",
           theme_color: "#fff",

@@ -1,7 +1,7 @@
 <div align="center">
 <img alt="logo" height="120" src="./public/favicon.png" width="120"/>
 <h2>今日热门</h2>
-<p>汇聚全网热点，热门尽览无余。</p>
+<p>全网热搜秒聚合，热门动态全掌握</p>
 <br />
 <img src="./screenshots/main.jpg" style="border-radius: 16px" />
 </div>
